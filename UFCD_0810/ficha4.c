@@ -101,8 +101,13 @@ void exercicio3() {
 	}
 }
 
+void exercicio_teste() {
+
+}
+
 void main() {
 	//exercicio1();
 	//exercicio2();
-	exercicio3();
+	exercicio3(); 
+	exercicio_teste();
 }
